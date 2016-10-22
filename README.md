@@ -8,7 +8,7 @@
 ###2: 
 *I would also like it so that this original github link that was located on the teamfortress.tv forums remains the only direct source of the download, and that you don't share it with anyone else. If someone is interested in this hud. Send them this link http://www.teamfortress.tv/8247/show-your-hud-modifications/?page=173 as again, this hud wasn't supposed to be professional and I feel that an edit of a hud dosen't really deserve its seperate download in most places such as huds.tf, gamebanana, etc.
 
-*PS In hate Valve...
+*PS I hate Valve...
 
 #Now, here is the original readme.md located in the vanilla form of ahud
 
